@@ -2,5 +2,7 @@ __pycache__
 .DS_Store
 ignore
 .venv
-* .whl
+numpy-1.25.2-cp310-cp310-macosx_11_0_arm64.whl
 NOAA-waterlevels-battery-yr2022.csv
+test-file-notime.csv
+test-file-dateandtime.csv
