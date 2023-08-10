@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+ignore
+.venv
+* .whl
+NOAA-waterlevels-battery-yr2022.csv
