@@ -5,9 +5,14 @@ from PlotDataMatLab import PlotData
 userdateinput = input("Enter date query YYYY/MM/DD:     ")
 # another_date_input = input("Would you like to enter another date (Y/N)?      ")
 choice_1 = RetrieveData(userdateinput)
-mapLabGraph = PlotData(choice_1)
+#mapLabGraph = PlotData(choice_1)
 
-#create more userinputs for dates
+userdateinput2 = input("Enter date query YYYY/MM/DD:    ")
+choice_2 = RetrieveData(userdateinput2)
+userdateinput3 = input("Enter date query YYYY/MM/DD:    ")
+choice_3 = RetrieveData(userdateinput3)
+
+# create more userinputs for dates
 # if another_date_input == "Y":
 #     userdateinput2 = input("Enter date query YYYY/MM/DD:")
 #     choice_2 = RetrieveData(userdateinput2)
@@ -19,7 +24,7 @@ mapLabGraph = PlotData(choice_1)
 #         mapLabGraph = PlotData(choice_1, choice_2, choice_3)
             
 #set user input data by passing the input to the RetrieveData class
-# mapLabGraph  = PlotData(choice_1, choice_2, choice_3)
+mapLabGraph  = PlotData(choice_1, choice_2, choice_3)
 
 mapLabGraph.plot_water_heights()
 

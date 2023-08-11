@@ -4,7 +4,6 @@
     <a href=""><img src="https://github.com/aokhepburn/Tidal-Graphs-For-The-Battery-2022-2025" /></a>
     <br>
     <a href="https://docs.python.org/3/index.html"><img src="https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
-    <a href="https://plotly.com/dash/"><img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" /></a>
 
 </p>
 
