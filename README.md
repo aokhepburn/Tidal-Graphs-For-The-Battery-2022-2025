@@ -75,13 +75,13 @@ The NFL Player Statistics Dashboard offers the following functionalities:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/jonrosenblum/nfl-player-stats-dashboard.git
+git clone https://github.com/aokhepburn/Tidal-Graphs-For-The-Battery-2022-2025
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd nfl-player-stats-dashboard
+cd Tidal-Graphs-For-The-Battery-2022-2025
 ```
 
 3. Install the required dependencies using pipenv:
