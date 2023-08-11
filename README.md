@@ -8,7 +8,9 @@
 </p>
 
 <h1 align="center"><b>Graphing The Tide As It Is Observed at the Battery (NY, NY) 2022-2025</b></h1>
-<h4 align="center">A CLI project to look at both past tidal data and future tidal data for tracking daily tidal changes in New York Harbor. </h4>
+<h4 align="center">A CLI project to look at both past tidal data and future tidal data for tracking daily tidal changes in New York Harbor.
+
+Currently only using the observations at The Battery but will add functionality for other parts of the harbor.</h4>
 
 <p align="center">
     <img src="" alt="Project Banner" width=60% height=60%/>
@@ -95,6 +97,8 @@ pipenv install
 ```bash
 pipenv python main.py
 ```
+
+5. Within the CLI there are three prompts to allow a range of three dates as data.
 
 ## Usage
 
